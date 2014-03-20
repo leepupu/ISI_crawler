@@ -1,0 +1,65 @@
+Sentiment Oriented Contexture Advertising
+FiVaTech: Page-Level Web Data Extraction from Template Pages
+Exploring Evolutionary Technical Trends From Academic Research Papers.
+Efficient Mining of Frequent Episodes from Complex Sequences
+Efficient Discovery of Frequent Continuities by Projected Window List Technology
+Efficient Text Chunking using Linear Kernel with Mask Method
+A Survey of Web Information Extraction Systems
+SMCA: A General Model for Mining Asynchronous Periodic Patterns in Temporal Databases
+Categorical Data Visualization and Clustering Using Subjective Factors
+Reconfigurable Web Wrapper Agents for Biological Information Integration
+A semi-supervised approach for Web data extraction with visual support
+Reconfigurable Web Wrapper Agents
+Automatic Information Extraction From Semi-Structured Web Pages By Pattern Discovery
+WebYacht: A Concept-based Search Tool for WWW
+Enabling concept-based relevance feedback on World Wide Web
+Enabling Web Information Retrieval through Query Expansion via Contrast Analysis
+Customizable Multi-Engine Search Tool based on Clustering
+Learning to Predict Ads Click Based on Boosted Collaborative Filtering
+MapMarker: Extraction of Postal Addresses And Associated Information for General Web Pages
+Blogger-Centric Contextual Advertising
+Decision Support and Profit Prediction for Online Auction Sellers
+Sentiment Oriented Contextual Advertising
+Exploring Evolutionary Technical Trends From Research Papers
+Gadget Creation for Personal Information Integration on Web Portals
+FiVaTech: Page-Level Web Data Extraction from Template Pages
+Aspect Summarization from Blogsphere for Social Study
+COBRA: Closed Sequential Pattern Mining Using Bi-phase Reduction Approanch
+A General and Multi-lingual Phrase Chunking Model Based on Masking Method
+Efficient Mining Strategy for Frequent Serial Episodes in Temporal Database
+ClosedPROWL: Efficient Mining of Closed Frequent Continuities by Projected Window List Technology
+COCOA: An Efficient Algorithm for Mining Inter-transaction Associations for Temporal Database
+Categorical Data Visualization and Clustering using Subjective Factors
+Mining Periodic Patterns in Sequence Data
+PROWL: An Efficient Frequent Continuity Mining Algorithm on Event Sequences
+OLERA: On-Line Extraction Rule Analysis for Semi-structured Documents
+Asynchronous Periodic Pattern Mining from Multi-event Time Series Databases
+Reconfigurable Web Wrapper Agents for Web Information Integration
+Enhancing SWF for Incremental Association Mining by Itemset Maintenance
+Information Extraction and Query Model Design for Taiwan Wild Bird Database
+Information Extraction: A Pattern Mining Approach for Free-Form Text
+Sequential Pattern Mining for Web Extraction Rule Generalization
+Automatic Information Extraction for Multiple Singular Web Pages
+IEPAD: Information Extraction based on Pattern Discovery
+Applying Pattern Mining to Web Information Extraction
+Semi-structured Information Extraction Applying Automatic Pattern Discovery
+Automatic Extraction of Information Blocks Using PAT Trees
+Exploiting Hyperlinks for Automatic Information Discovery on the WWW
+Hypertext Information Retrieval for Short Queries
+Enabling Web Information Retrieval through Query Expansion via Contrast Analysis
+Constructing Personal Information Search Agents
+A Multi-Engine Search Tool based on Clustering
+Infomation Searching and Exploring Applying Clustering and Genetic Algorithm
+Application and Extraction of Postal Addresses and Related Information
+Applying Support Vector Machine to English Address Extraction
+Automatic Labeling for Blog Post Extraction
+Multiple Source Data Management for Gadget Creation on Web Portals
+Predicting the end-price and sold probability of online auctions for higher profit
+A two-phase Approach to Chinese Unknown Word Extraction: Application of Pattern Mining and Machine Learning
+Cleaning of Auction Data for Bidding Decision
+Conference Information Extraction: Segmentation Base Approach
+Web page Classification and Cleaning for Information Extraction
+Chinese Word Segmentation using Specialized HMM
+MAGEN: An Adaptive Conversational System Based On Terms
+Ranking by Sentence Categorization for Question Answering Systems
+Web Cleaning: Page Segmentation and Data-rich Section Mining
