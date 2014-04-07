@@ -9,7 +9,7 @@ class Paper
   end
 
   def load_parsers
-    config = YAML.load_file './config/paper.yaml'
+    config = YAML.load_file './config/paper.yml'
     @parsers = []
     config["parsers"].each do |parser|
       @parsers << parser.constantize.new(self)

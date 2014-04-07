@@ -31,9 +31,9 @@ run bundle install
 $ bundle install
 ```
 
-copy config/mongo-sample.yaml to config/mongo.yaml
+copy config/mongo-sample.yml to config/mongo.yml
 ```
-$ cp config/mongo-sample.yaml config/mongo.yaml
+$ cp config/mongo-sample.yml config/mongo.yml
 ```
 
 run ruby irb, and load ./work.rb
