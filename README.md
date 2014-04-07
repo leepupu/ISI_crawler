@@ -31,6 +31,11 @@ run bundle install
 $ bundle install
 ```
 
+copy config/mongo-sample.yaml to config/mongo.yaml
+```
+$ cp config/mongo-sample.yaml config/mongo.yaml
+```
+
 run ruby irb, and load ./work.rb
 ```
 $ irb
