@@ -6,6 +6,6 @@ class Parser
   end
 
   def parse(html)
-    #abstract
+    not_implemented
   end
 end

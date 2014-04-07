@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    abstract (1.0.0)
     activemodel (3.2.17)
       activesupport (= 3.2.17)
       builder (~> 3.0.0)
@@ -50,6 +51,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  abstract (~> 1.0.0)
   bson_ext
   mechanize
   mongo_mapper

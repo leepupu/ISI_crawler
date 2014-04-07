@@ -1,6 +1,7 @@
 require 'mechanize'
 require 'mongo_mapper'
 require 'yaml'
+require 'abstract'
 
 module ISICrawler
 
