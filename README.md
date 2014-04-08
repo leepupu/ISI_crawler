@@ -1,7 +1,7 @@
 #現況
 目前已經有簡單架構了，不過之後是一定還會再改。
 
-目前的架構設計就是希望每個 paper model 物件實體都代表一篇論文，而每個 paper model 會去載入指定的FieldParser(config/paper.yml)。而每個 FieldParser 分別負責解析一個或多個欄位。例如：論文標題的parser、論文引用次數的parser...
+目前的架構設計就是希望每個 paper model 物件實體都代表一篇論文，而每個 paper model 會去載入指定的FieldParser(config/initializers/paper.rb)。而每個 FieldParser 分別負責解析一個或多個欄位。例如：論文標題的parser、論文引用次數的parser...
 
 
 這樣的設計是希望可以提高擴充性，以後若欄位變動就只需要修改個別 parser、若有需要增加欄位，就增加 parser。
