@@ -9,9 +9,8 @@ class Paper
   end
 
   def load_parsers
-    config = YAML.load_file './config/paper.yml'
     @parsers = []
-    config["parsers"].each do |parser|
+    Paper.configuration.parsers.each do |parser|
       @parsers << parser.constantize.new(self)
     end
   end
@@ -22,4 +21,18 @@ class Paper
     self.updated_at = Time.now
   end
 
+  class << self
+    attr_accessor :configuration
+    def configure
+      self.configuration ||= Configuration.new
+      yield(configuration)
+    end
+  end
+
+  class Configuration
+    attr_accessor :parsers
+    def initialize
+      @parsers = []
+    end
+  end
 end
