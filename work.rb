@@ -7,7 +7,6 @@ module ISICrawler
 
   Dir["./isi_crawler/models/*.rb"].each {|file| require file }
   Dir["./isi_crawler/models/parser/*.rb"].each {|file| require file }
-  Dir["./config/initializers/*.rb"].each {|file| require file }
 
   module_function
   def search_form
@@ -25,6 +24,10 @@ module ISICrawler
     result = form.submit()
     num_link = result.search('//*[@id="RECORD_1"]/div[4]/div/a') # XPath of result link
     num_link.text
+  end
+
+  def init
+    Dir["./config/initializers/*.rb"].each {|file| require file }
   end
 
 end
