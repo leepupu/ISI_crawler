@@ -22,7 +22,6 @@ class PaperController
       q = uri.query_values
       q['doc'] = i+1
       uri.query_values = q
-      puts uri.query
       paper = @agent.get('http://apps.webofknowledge.com/full_record.do?'+uri.query)
       puts paper.search('//*[@class="title"]').text
     end
