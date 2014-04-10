@@ -3,6 +3,7 @@ require 'mongo_mapper'
 require 'yaml'
 require 'abstract'
 require 'date'
+require "addressable/uri"
 
 module ISICrawler
 
