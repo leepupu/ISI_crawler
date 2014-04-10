@@ -2,11 +2,13 @@ require 'mechanize'
 require 'mongo_mapper'
 require 'yaml'
 require 'abstract'
+require 'date'
 
 module ISICrawler
 
   Dir["./isi_crawler/models/*.rb"].each {|file| require file }
   Dir["./isi_crawler/models/parser/*.rb"].each {|file| require file }
+  Dir["./isi_crawler/controllers/*.rb"].each {|file| require file }
 
   module_function
   def search_form
@@ -28,6 +30,10 @@ module ISICrawler
 
   def init
     Dir["./config/initializers/*.rb"].each {|file| require file }
+  end
+
+  def test
+    init
   end
 
 end
