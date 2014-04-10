@@ -39,7 +39,7 @@ $ cp config/mongo-sample.yml config/mongo.yml
 run ruby irb, and load ./work.rb
 ```
 $ irb
-> require './work.rb'
+> require './isi_crawler.rb'
 > ISICrawler.init      #make sure that MongoDB is running and the configs in config/mongo.yml is correct
 ```
 after initializing, you can starting testing
